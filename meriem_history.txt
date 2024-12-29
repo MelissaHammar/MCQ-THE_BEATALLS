@@ -1,0 +1,33 @@
+User ID: meriem
+Playing History:
+------------------------------
+Category: Security
+Level: easy
+Score: 3/5
+Date: 2024-12-29
+Time: 18:31:36
+------------------------------
+Category: Security
+Level: easy
+Score: 2/5
+Date: 2024-12-29
+Time: 19:55:16
+------------------------------
+Category: Artificial Intelligence
+Level: easy
+Score: 0/1
+Date: 2024-12-29
+Time: 19:58:15
+------------------------------
+Category: Programming
+Level: easy
+Score: 1/2
+Date: 2024-12-29
+Time: 20:42:04
+------------------------------
+Category: Artificial Intelligence
+Level: easy
+Score: 2/3
+Date: 2024-12-29
+Time: 20:46:53
+------------------------------

@@ -1,6 +1,6 @@
 from user_management import signin_signup
 from user_management import load_users
-from mcq_management import load_questions, display_question
+from mcq_management import load_questions, display_question, export_user_history
 import random
 from datetime import datetime
 import json
@@ -70,6 +70,11 @@ def main():
         except ValueError:
             print("Invalid input. Please enter a number.")
 
+    
+    total_time = num_questions * 30
+    print(f"\nTotal quiz time will be {total_time} seconds ({total_time/60:.1f} minutes)")
+    input("Press Enter when you're ready to start...")
+
     # randomly select the number of questions
     selected_questions = random.sample(filtered_questions, num_questions)
 
@@ -102,7 +107,8 @@ def main():
     # display final score
     print(f"\nYou completed the quiz! Your final score is {score}/{num_questions}.")
 
-
+    export_user_history(user_id, users[user_id])
+    
     print("\nThank you for playing!")
 
 if __name__ == "__main__":
