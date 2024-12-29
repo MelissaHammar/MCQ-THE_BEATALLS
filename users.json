@@ -2,10 +2,11 @@
     "pumpkin": {
         "history": [
             {
-                "category": "AI",
-                "score": "90",
+                "category": "Artificial Intelligence",
+                "level": "easy",
+                "score": "10/15",
                 "date": "2023-12-25",
-                "time": "10:00"
+                "time": "10:00:25"
             }
         ]
     },
@@ -17,5 +18,48 @@
     },
     "cat": {
         "history": []
+    },
+    "naila": {
+        "history": [
+            {
+                "category": "Programming",
+                "level": "easy",
+                "score": "2/3",
+                "date": "2024-12-29",
+                "time": "14:27:07"
+            },
+            {
+                "category": "Artificial Intelligence",
+                "level": "easy",
+                "score": "0/1",
+                "date": "2024-12-29",
+                "time": "14:35:03"
+            },
+            {
+                "category": "Artificial Intelligence",
+                "level": "easy",
+                "score": "3/4",
+                "date": "2024-12-29",
+                "time": "15:11:40"
+            },
+            {
+                "category": "Programming",
+                "level": "medium",
+                "score": "2/2",
+                "date": "2024-12-29",
+                "time": "15:24:23"
+            }
+        ]
+    },
+    "test": {
+        "history": [
+            {
+                "category": "Artificial Intelligence",
+                "level": "hard",
+                "score": "1/2",
+                "date": "2024-12-29",
+                "time": "15:31:47"
+            }
+        ]
     }
 }
