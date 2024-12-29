@@ -1,6 +1,6 @@
 from user_management import signin_signup
 from user_management import load_users
-from mcq_management import load_questions, display_question
+from mcq_management import load_questions, display_question, export_user_history
 import random
 from datetime import datetime
 import json
@@ -107,7 +107,8 @@ def main():
     # display final score
     print(f"\nYou completed the quiz! Your final score is {score}/{num_questions}.")
 
-
+    export_user_history(user_id, users[user_id])
+    
     print("\nThank you for playing!")
 
 if __name__ == "__main__":

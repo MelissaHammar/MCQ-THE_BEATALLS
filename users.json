@@ -84,6 +84,20 @@
                 "score": "0/1",
                 "date": "2024-12-29",
                 "time": "19:58:15"
+            },
+            {
+                "category": "Programming",
+                "level": "easy",
+                "score": "1/2",
+                "date": "2024-12-29",
+                "time": "20:42:04"
+            },
+            {
+                "category": "Artificial Intelligence",
+                "level": "easy",
+                "score": "2/3",
+                "date": "2024-12-29",
+                "time": "20:46:53"
             }
         ]
     }
