@@ -1,0 +1,372 @@
+[
+    {
+        "level": "easy",
+        "question": "What does AI stand for?",
+        "options": ["Automated Interface", "Artificial Intelligence", "Algorithmic Integration"],
+        "answer": 2
+    },
+    {
+        "level": "easy",
+        "question": "Which of these is an example of AI in daily use?",
+        "options": ["Self-driving cars", "Regular bicycles", "Paper maps"],
+        "answer": 1
+    },
+    {
+        "level": "easy",
+        "question": "Which language is commonly used for AI programming?",
+        "options": ["Python", "HTML", "CSS"],
+        "answer": 1
+    },
+    {
+        "level": "easy",
+        "question": "Which of these is NOT a type of AI?",
+        "options": ["Narrow AI", "General AI", "Mechanical AI"],
+        "answer": 3
+    },
+    {
+        "level": "easy",
+        "question": "What is the goal of AI?",
+        "options": ["To make machines intelligent", "To replace all humans", "To perform all tasks manually"],
+        "answer": 1
+    },
+    {
+        "level": "easy",
+        "question": "Which of these is an AI application?",
+        "options": ["Image recognition", "Stone carving", "Walking a dog"],
+        "answer": 1
+    },
+    {
+        "level": "easy",
+        "question": "What is Machine Learning?",
+        "options": ["Teaching computers to learn from data", "Manually programming all tasks", "A hardware component"],
+        "answer": 1
+    },
+    {
+        "level": "easy",
+        "question": "Which company is famous for its AI assistant called Siri?",
+        "options": ["Google", "Apple", "Microsoft"],
+        "answer": 2
+    },
+    {
+        "level": "easy",
+        "question": "What does NLP stand for in AI?",
+        "options": ["Neural Logic Processing", "Natural Language Processing", "Numerical Learning Process"],
+        "answer": 2
+    },
+    {
+        "level": "easy",
+        "question": "Which of these is an AI-based virtual assistant?",
+        "options": ["Alexa", "Google Chrome", "MS Paint"],
+        "answer": 1
+    },
+    {
+        "level": "easy",
+        "question": "Which AI term refers to systems that mimic human thinking?",
+        "options": ["Neural Networks", "Mechanical Tools", "Stone Algorithms"],
+        "answer": 1
+    },
+    {
+        "level": "easy",
+        "question": "What is a chatbot?",
+        "options": ["A robot that chats", "A software for natural conversation", "A hardware tool"],
+        "answer": 2
+    },
+    {
+        "level": "easy",
+        "question": "Which of these is an example of supervised learning?",
+        "options": ["Using labeled data to train a model", "Using no data", "Manually crafting rules"],
+        "answer": 1
+    },
+    {
+        "level": "easy",
+        "question": "What is the term for teaching AI through examples?",
+        "options": ["Supervised Learning", "Hypothesis Testing", "Neural Cleaning"],
+        "answer": 1
+    },
+    {
+        "level": "easy",
+        "question": "Which of these is a goal of AI?",
+        "options": ["Automation of repetitive tasks", "Creating manual processes", "Avoiding innovation"],
+        "answer": 1
+    },
+    {
+        "level": "easy",
+        "question": "What does the Turing Test measure?",
+        "options": ["A machine's intelligence", "A machine's size", "A machine's speed"],
+        "answer": 1
+    },
+    {
+        "level": "easy",
+        "question": "Which of these technologies is related to AI?",
+        "options": ["Speech recognition", "Wiring circuits", "Hammering nails"],
+        "answer": 1
+    },
+    {
+        "level": "easy",
+        "question": "What is a neural network inspired by?",
+        "options": ["The human brain", "Mathematics only", "Machine designs"],
+        "answer": 1
+    },
+    {
+        "level": "easy",
+        "question": "Which of these is an AI application in healthcare?",
+        "options": ["Diagnosing diseases", "Building furniture", "Cooking food"],
+        "answer": 1
+    },
+    {
+        "level": "easy",
+        "question": "What does reinforcement learning involve?",
+        "options": ["Learning through rewards and penalties", "Learning without any feedback", "Learning by copying human actions"],
+        "answer": 1
+    },
+
+
+
+
+
+    {
+        "level": "medium",
+        "question": "What is the main purpose of backpropagation in neural networks?",
+        "options": ["Adjusting weights to minimize error", "Generating new data points", "Analyzing input data"],
+        "answer": 1
+    },
+    {
+        "level": "medium",
+        "question": "Which algorithm is commonly used for classification and regression tasks?",
+        "options": ["Support Vector Machine", "Bubble Sort", "Prim's Algorithm"],
+        "answer": 1
+    },
+    {
+        "level": "medium",
+        "question": "What is a key characteristic of unsupervised learning?",
+        "options": ["It uses labeled data", "It identifies hidden patterns in data", "It requires human intervention at every step"],
+        "answer": 2
+    },
+    {
+        "level": "medium",
+        "question": "What does the term 'overfitting' mean in Machine Learning?",
+        "options": ["The model performs poorly on training data", "The model is too simple to capture patterns", "The model performs well on training data but poorly on new data"],
+        "answer": 3
+    },
+    {
+        "level": "medium",
+        "question": "Which AI approach uses a reward mechanism to train models?",
+        "options": ["Supervised Learning", "Reinforcement Learning", "Unsupervised Learning"],
+        "answer": 2
+    },
+    {
+        "level": "medium",
+        "question": "What is a convolutional neural network (CNN) primarily used for?",
+        "options": ["Text processing", "Image recognition", "Database management"],
+        "answer": 2
+    },
+    {
+        "level": "medium",
+        "question": "What is the difference between AI and Machine Learning?",
+        "options": ["AI is a subset of Machine Learning", "Machine Learning is a subset of AI", "They are completely unrelated fields"],
+        "answer": 2
+    },
+    {
+        "level": "medium",
+        "question": "Which of the following is a characteristic of a deep neural network?",
+        "options": ["It has only one hidden layer", "It has multiple hidden layers", "It does not use hidden layers"],
+        "answer": 2
+    },
+    {
+        "level": "medium",
+        "question": "Which type of learning algorithm is K-means clustering?",
+        "options": ["Supervised", "Unsupervised", "Reinforcement"],
+        "answer": 2
+    },
+    {
+        "level": "medium",
+        "question": "Which of these is an example of a recurrent neural network (RNN) application?",
+        "options": ["Time series forecasting", "Image classification", "Data sorting"],
+        "answer": 1
+    },
+    {
+        "level": "medium",
+        "question": "What is the purpose of a loss function in AI models?",
+        "options": ["To define the problem", "To measure prediction error", "To choose features"],
+        "answer": 2
+    },
+    {
+        "level": "medium",
+        "question": "Which optimization algorithm is commonly used to train neural networks?",
+        "options": ["Gradient Descent", "Binary Search", "Quick Sort"],
+        "answer": 1
+    },
+    {
+        "level": "medium",
+        "question": "Which of these is a common activation function in neural networks?",
+        "options": ["Sigmoid", "Determinant", "Matrix Multiplication"],
+        "answer": 1
+    },
+    {
+        "level": "medium",
+        "question": "What is an example of a generative AI model?",
+        "options": ["ChatGPT", "K-means clustering", "Decision Tree"],
+        "answer": 1
+    },
+    {
+        "level": "medium",
+        "question": "What is the role of dropout in neural networks?",
+        "options": ["To increase model size", "To prevent overfitting", "To speed up training"],
+        "answer": 2
+    },
+    {
+        "level": "medium",
+        "question": "Which technique is used to handle imbalanced datasets?",
+        "options": ["Oversampling the minority class", "Ignoring the minority class", "Training on only one class"],
+        "answer": 1
+    },
+    {
+        "level": "medium",
+        "question": "What is one key advantage of decision trees?",
+        "options": ["They require extensive preprocessing", "They are easy to interpret", "They cannot handle categorical data"],
+        "answer": 2
+    },
+    {
+        "level": "medium",
+        "question": "What is transfer learning in AI?",
+        "options": ["Using a pre-trained model for a similar task", "Training a model from scratch", "Combining multiple datasets"],
+        "answer": 1
+    },
+    {
+        "level": "medium",
+        "question": "What is a primary use of natural language processing (NLP)?",
+        "options": ["Processing large images", "Analyzing human language", "Optimizing database queries"],
+        "answer": 2
+    },
+    {
+        "level": "medium",
+        "question": "Which type of AI model can generate new data samples?",
+        "options": ["Generative Adversarial Networks (GANs)", "Support Vector Machines (SVMs)", "Linear Regression"],
+        "answer": 1
+    },
+
+
+
+    {
+        "level": "hard",
+        "question": "What is the vanishing gradient problem in deep learning?",
+        "options": ["Gradients become too small during backpropagation", "Gradients become too large during backpropagation", "Gradients oscillate during training"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "Which architecture is best suited for sequential data processing?",
+        "options": ["Recurrent Neural Networks (RNN)", "Convolutional Neural Networks (CNN)", "Random Forest"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "What is the role of the softmax function in classification tasks?",
+        "options": ["It normalizes output into probabilities", "It calculates the gradient", "It initializes weights"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "Which of these is a type of unsupervised deep learning architecture?",
+        "options": ["Autoencoders", "Support Vector Machines", "Gradient Boosted Trees"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "What does a generative adversarial network (GAN) consist of?",
+        "options": ["A generator and a discriminator", "A single neural network", "Multiple decision trees"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "What is the purpose of batch normalization in neural networks?",
+        "options": ["To stabilize learning by normalizing layer inputs", "To reduce the dataset size", "To initialize weights"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "What is a Transformer model in deep learning?",
+        "options": ["A model that uses self-attention mechanisms", "A type of decision tree", "A generative probabilistic model"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "What does the term 'dropout' refer to in deep learning?",
+        "options": ["Randomly setting some neurons' outputs to zero during training", "Removing features from the dataset", "Reducing the number of layers in a network"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "Which optimizer is known for combining the advantages of RMSprop and Momentum?",
+        "options": ["Adam", "SGD", "AdaGrad"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "What is the main function of an attention mechanism in AI models?",
+        "options": ["To focus on important parts of input data", "To adjust learning rates", "To initialize parameters"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "Which concept allows a neural network to capture dependencies across long sequences?",
+        "options": ["LSTM (Long Short-Term Memory)", "ReLU (Rectified Linear Unit)", "Batch Normalization"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "What is the difference between policy-based and value-based reinforcement learning?",
+        "options": ["Policy-based learns actions directly, value-based estimates state value", "Value-based learns actions directly, policy-based estimates state value", "There is no difference"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "Which loss function is typically used in binary classification tasks?",
+        "options": ["Binary Cross-Entropy", "Mean Squared Error", "Categorical Cross-Entropy"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "What is a key advantage of using a pre-trained model in transfer learning?",
+        "options": ["It reduces the training time and data requirement", "It eliminates the need for optimization", "It guarantees 100% accuracy"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "What is the purpose of the ReLU activation function?",
+        "options": ["To introduce non-linearity into the model", "To normalize input data", "To initialize weights"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "Which of these algorithms is used in reinforcement learning?",
+        "options": ["Q-Learning", "K-means clustering", "Linear Regression"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "What is the concept of 'zero-shot learning'?",
+        "options": ["Learning to recognize new tasks without labeled data", "Training a model with zero input data", "Reinforcing learning from scratch"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "What is the difference between a convolutional layer and a fully connected layer?",
+        "options": ["A convolutional layer focuses on local features, while a fully connected layer captures global features", "A convolutional layer uses random weights, while a fully connected layer doesn't", "There is no significant difference"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "Which AI model architecture is used in GPT and similar large language models?",
+        "options": ["Transformer", "RNN", "LSTM"],
+        "answer": 1
+    },
+    {
+        "level": "hard",
+        "question": "Which term describes the process of balancing precision and recall in classification tasks?",
+        "options": ["F1 Score", "Gradient Descent", "Entropy"],
+        "answer": 1
+    }
+
+    
+]

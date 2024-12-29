@@ -1,0 +1,21 @@
+{
+    "pumpkin": {
+        "history": [
+            {
+                "category": "AI",
+                "score": "90",
+                "date": "2023-12-25",
+                "time": "10:00"
+            }
+        ]
+    },
+    "spider": {
+        "history": []
+    },
+    "melissa": {
+        "history": []
+    },
+    "cat": {
+        "history": []
+    }
+}
