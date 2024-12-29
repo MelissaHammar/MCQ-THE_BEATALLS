@@ -70,6 +70,11 @@ def main():
         except ValueError:
             print("Invalid input. Please enter a number.")
 
+    
+    total_time = num_questions * 30
+    print(f"\nTotal quiz time will be {total_time} seconds ({total_time/60:.1f} minutes)")
+    input("Press Enter when you're ready to start...")
+
     # randomly select the number of questions
     selected_questions = random.sample(filtered_questions, num_questions)
 

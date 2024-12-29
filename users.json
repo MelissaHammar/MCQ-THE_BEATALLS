@@ -61,5 +61,30 @@
                 "time": "15:31:47"
             }
         ]
+    },
+    "meriem": {
+        "history": [
+            {
+                "category": "Security",
+                "level": "easy",
+                "score": "3/5",
+                "date": "2024-12-29",
+                "time": "18:31:36"
+            },
+            {
+                "category": "Security",
+                "level": "easy",
+                "score": "2/5",
+                "date": "2024-12-29",
+                "time": "19:55:16"
+            },
+            {
+                "category": "Artificial Intelligence",
+                "level": "easy",
+                "score": "0/1",
+                "date": "2024-12-29",
+                "time": "19:58:15"
+            }
+        ]
     }
 }

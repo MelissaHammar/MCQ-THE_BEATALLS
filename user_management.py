@@ -28,7 +28,7 @@ def signin_signup(users):
         print(f"\nGood to see you again, {id}!")
         print(f"\nBelow you can find your playing history: ") 
         for x in users[id]["history"] : 
-            print(f"Category: {x["category"]}, \t Level: {x["level"]}, \t Score: {x["score"]}, \t Date: {x["date"]}, \t Time: {x["time"]}")
+            print(f"Category: {x['category']}, \t Level: {x['level']}, \t Score: {x['score']}, \t Date: {x['date']}, \t Time: {x['time']}")
     # else, sign them up and add their id to the users.json          
     else:
         print(f"\nCreating an account for {id}... ")

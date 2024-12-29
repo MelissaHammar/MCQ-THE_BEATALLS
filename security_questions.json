@@ -1,451 +1,602 @@
 [
     {
+        "level": "easy",
         "question": "What does 'HTTPS' stand for?",
-        "options": ["HyperText Transfer Protocol Secure", "HyperText Transfer Protocol Standard", "High Transfer Text Protocol Secure"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "HyperText Transfer Protocol Secure",
+            "HyperText Transfer Protocol Standard",
+            "High Transfer Text Protocol Secure"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "Which of these is an example of strong password practice?",
-        "options": ["$tr0ngP@ss!", "Password123", "YourName2024"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "$tr0ngP@ss!",
+            "Password123",
+            "YourName2024"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "What is phishing?",
-        "options": ["A fraudulent attempt to obtain sensitive information", "A type of antivirus software", "A secure network protocol"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "A fraudulent attempt to obtain sensitive information",
+            "A type of antivirus software",
+            "A secure network protocol"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "What does a firewall do?",
-        "options": ["Monitors and controls incoming and outgoing network traffic", "Protects your computer from physical damage", "Repairs damaged files"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "Monitors and controls incoming and outgoing network traffic",
+            "Protects your computer from physical damage",
+            "Repairs damaged files"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "What is malware?",
-        "options": ["Malicious software designed to harm a computer system", "A hardware device", "An encryption algorithm"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "Malicious software designed to harm a computer system",
+            "A hardware device",
+            "An encryption algorithm"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "Which of the following is an example of two-factor authentication?",
-        "options": ["Using a password and a one-time code sent to your phone", "Using just a username and password", "Using only a fingerprint scan"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "Using a password and a one-time code sent to your phone",
+            "Using just a username and password",
+            "Using only a fingerprint scan"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "What is a VPN used for?",
-        "options": ["Creating a secure and private network connection", "Blocking ads on websites", "Removing malware from your device"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "Creating a secure and private network connection",
+            "Blocking ads on websites",
+            "Removing malware from your device"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "What does the term 'social engineering' refer to?",
-        "options": ["Using psychology to manipulate people into revealing confidential information", "Engineering secure networks", "Physical security measures for data centers"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "Using psychology to manipulate people into revealing confidential information",
+            "Engineering secure networks",
+            "Physical security measures for data centers"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "Which of these is a secure practice when using public Wi-Fi?",
-        "options": ["Using a VPN", "Accessing bank accounts", "Disabling firewalls"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "Using a VPN",
+            "Accessing bank accounts",
+            "Disabling firewalls"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "What does the padlock icon in a browser address bar indicate?",
-        "options": ["The website uses a secure HTTPS connection", "The website is free to use", "The website has no ads"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "The website uses a secure HTTPS connection",
+            "The website is free to use",
+            "The website has no ads"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "Which of these is NOT a type of malware?",
-        "options": ["Firewall", "Trojan", "Worm"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "Firewall",
+            "Trojan",
+            "Worm"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "What should you do if you receive an unexpected email with a suspicious attachment?",
-        "options": ["Delete it immediately", "Open it to see what's inside", "Forward it to everyone"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "Delete it immediately",
+            "Open it to see what's inside",
+            "Forward it to everyone"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "What is encryption?",
-        "options": ["A method to convert data into a secure format", "A way to monitor network traffic", "A type of computer virus"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "A method to convert data into a secure format",
+            "A way to monitor network traffic",
+            "A type of computer virus"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "What is a strong indicator of a phishing website?",
-        "options": ["A misspelled domain name", "A padlock icon in the address bar", "Professional-looking design"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "A misspelled domain name",
+            "A padlock icon in the address bar",
+            "Professional-looking design"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "Which of these helps protect against brute force attacks?",
-        "options": ["Enabling account lockouts after several failed attempts", "Using simple passwords", "Using public Wi-Fi"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "Enabling account lockouts after several failed attempts",
+            "Using simple passwords",
+            "Using public Wi-Fi"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "What does '2FA' stand for?",
-        "options": ["Two-Factor Authentication", "Two-Firewall Access", "Two-Factor Algorithm"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "Two-Factor Authentication",
+            "Two-Firewall Access",
+            "Two-Factor Algorithm"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "What is spyware?",
-        "options": ["Malware that secretly monitors user activity", "Software used for encrypting data", "A type of firewall"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "Malware that secretly monitors user activity",
+            "Software used for encrypting data",
+            "A type of firewall"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "What is the primary purpose of antivirus software?",
-        "options": ["To scan and remove malicious software", "To clean your hard drive", "To increase internet speed"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "To scan and remove malicious software",
+            "To clean your hard drive",
+            "To increase internet speed"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "What is a data breach?",
-        "options": ["Unauthorized access to confidential data", "A secure file transfer", "Routine network maintenance"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "Unauthorized access to confidential data",
+            "A secure file transfer",
+            "Routine network maintenance"
+        ],
+        "answer": 1
     },
     {
+        "level": "easy",
         "question": "Which of these is a safe practice for password management?",
-        "options": ["Using a password manager", "Using the same password for every site", "Writing your passwords on paper"],
-        "answer": 0,
-        "level": "easy"
+        "options": [
+            "Using a password manager",
+            "Using the same password for every site",
+            "Writing your passwords on paper"
+        ],
+        "answer": 1
     },
-
-
-
     {
+        "level": "medium",
         "question": "What is the primary purpose of a penetration test?",
-        "options": ["To identify security vulnerabilities before attackers do", "To monitor network traffic", "To encrypt sensitive data"],
-        "answer": 0,
-        "level": "medium"
+        "options": [
+            "To identify security vulnerabilities before attackers do",
+            "To monitor network traffic",
+            "To encrypt sensitive data"
+        ],
+        "answer": 1
     },
     {
+        "level": "medium",
         "question": "How can an attacker exploit a misconfigured firewall?",
-        "options": ["By sending phishing emails", "By bypassing rules and accessing restricted resources", "By encrypting traffic"],
-        "answer": 1,
-        "level": "medium"
+        "options": [
+            "By sending phishing emails",
+            "By bypassing rules and accessing restricted resources",
+            "By encrypting traffic"
+        ],
+        "answer": 2
     },
     {
+        "level": "medium",
         "question": "What is the primary weakness of using only static passwords for authentication?",
-        "options": ["They are difficult to remember", "They are vulnerable to brute-force and credential stuffing attacks", "They require frequent updates"],
-        "answer": 1,
-        "level": "medium"
+        "options": [
+            "They are difficult to remember",
+            "They are vulnerable to brute-force and credential stuffing attacks",
+            "They require frequent updates"
+        ],
+        "answer": 2
     },
     {
+        "level": "medium",
         "question": "How can you prevent cross-site scripting (XSS) vulnerabilities?",
-        "options": ["Sanitize user input and use Content Security Policy (CSP)", "Encrypt user data", "Update SSL certificates regularly"],
-        "answer": 0,
-        "level": "medium"
+        "options": [
+            "Sanitize user input and use Content Security Policy (CSP)",
+            "Encrypt user data",
+            "Update SSL certificates regularly"
+        ],
+        "answer": 1
     },
     {
+        "level": "medium",
         "question": "Which tool is commonly used for network packet analysis?",
-        "options": ["Wireshark", "Nmap", "Burp Suite"],
-        "answer": 0,
-        "level": "medium"
+        "options": [
+            "Wireshark",
+            "Nmap",
+            "Burp Suite"
+        ],
+        "answer": 1
     },
     {
+        "level": "medium",
         "question": "How does a ransomware attack typically propagate?",
-        "options": ["Through phishing emails and malicious attachments", "Via secure encrypted channels", "Through open-source libraries"],
-        "answer": 0,
-        "level": "medium"
+        "options": [
+            "Through phishing emails and malicious attachments",
+            "Via secure encrypted channels",
+            "Through open-source libraries"
+        ],
+        "answer": 1
     },
     {
+        "level": "medium",
         "question": "What is the primary purpose of using a VPN in a corporate network?",
-        "options": ["To create a secure encrypted connection", "To prevent data loss", "To monitor employee activity"],
-        "answer": 0,
-        "level": "medium"
+        "options": [
+            "To create a secure encrypted connection",
+            "To prevent data loss",
+            "To monitor employee activity"
+        ],
+        "answer": 1
     },
     {
+        "level": "medium",
         "question": "How can attackers exploit outdated software versions?",
-        "options": ["By leveraging known vulnerabilities and exploits", "By brute-forcing user passwords", "By intercepting encrypted communication"],
-        "answer": 0,
-        "level": "medium"
+        "options": [
+            "By leveraging known vulnerabilities and exploits",
+            "By brute-forcing user passwords",
+            "By intercepting encrypted communication"
+        ],
+        "answer": 1
     },
     {
+        "level": "medium",
         "question": "What is the main difference between symmetric and asymmetric encryption?",
-        "options": ["Symmetric encryption uses one key, asymmetric encryption uses two keys", "Asymmetric encryption is faster", "Asymmetric encryption is not secure"],
-        "answer": 0,
-        "level": "medium"
+        "options": [
+            "Symmetric encryption uses one key, asymmetric encryption uses two keys",
+            "Asymmetric encryption is faster",
+            "Asymmetric encryption is not secure"
+        ],
+        "answer": 1
     },
     {
+        "level": "medium",
         "question": "How can you detect if your website is vulnerable to SQL Injection?",
-        "options": ["By performing penetration testing", "By analyzing server load", "By checking SSL certificates"],
-        "answer": 0,
-        "level": "medium"
+        "options": [
+            "By performing penetration testing",
+            "By analyzing server load",
+            "By checking SSL certificates"
+        ],
+        "answer": 1
     },
     {
+        "level": "medium",
         "question": "Which type of malware disguises itself as legitimate software?",
-        "options": ["Trojan", "Virus", "Worm"],
-        "answer": 0,
-        "level": "medium"
+        "options": [
+            "Trojan",
+            "Virus",
+            "Worm"
+        ],
+        "answer": 1
     },
     {
+        "level": "medium",
         "question": "How can you prevent session hijacking attacks?",
-        "options": ["Use strong encryption and secure session tokens", "Disable cookies", "Increase server bandwidth"],
-        "answer": 0,
-        "level": "medium"
+        "options": [
+            "Use strong encryption and secure session tokens",
+            "Disable cookies",
+            "Increase server bandwidth"
+        ],
+        "answer": 1
     },
     {
+        "level": "medium",
         "question": "What is the purpose of a honeypot in cybersecurity?",
-        "options": ["To detect and analyze malicious activities", "To monitor network speed", "To block malware"],
-        "answer": 0,
-        "level": "medium"
+        "options": [
+            "To detect and analyze malicious activities",
+            "To monitor network speed",
+            "To block malware"
+        ],
+        "answer": 1
     },
     {
+        "level": "medium",
         "question": "How does a buffer overflow vulnerability occur?",
-        "options": ["When too much data is written to a fixed-length memory buffer", "When network bandwidth is exceeded", "When passwords are weak"],
-        "answer": 0,
-        "level": "medium"
+        "options": [
+            "When too much data is written to a fixed-length memory buffer",
+            "When network bandwidth is exceeded",
+            "When passwords are weak"
+        ],
+        "answer": 1
     },
     {
+        "level": "medium",
         "question": "Which protocol is most secure for sending emails?",
-        "options": ["SMTP with TLS", "IMAP", "POP3"],
-        "answer": 0,
-        "level": "medium"
+        "options": [
+            "SMTP with TLS",
+            "IMAP",
+            "POP3"
+        ],
+        "answer": 1
     },
     {
+        "level": "medium",
         "question": "How can attackers exploit weak encryption algorithms?",
-        "options": ["By analyzing the encryption keys and decrypting data", "By avoiding detection tools", "By increasing latency"],
-        "answer": 0,
-        "level": "medium"
+        "options": [
+            "By analyzing the encryption keys and decrypting data",
+            "By avoiding detection tools",
+            "By increasing latency"
+        ],
+        "answer": 1
     },
     {
+        "level": "medium",
         "question": "What is the best way to prevent phishing attacks in an organization?",
-        "options": ["Conduct regular employee training and awareness programs", "Rely on antivirus software", "Disable firewalls"],
-        "answer": 0,
-        "level": "medium"
+        "options": [
+            "Conduct regular employee training and awareness programs",
+            "Rely on antivirus software",
+            "Disable firewalls"
+        ],
+        "answer": 1
     },
     {
+        "level": "medium",
         "question": "How does two-factor authentication (2FA) improve account security?",
-        "options": ["It adds an additional verification step", "It removes the need for strong passwords", "It disables password recovery"],
-        "answer": 0,
-        "level": "medium"
+        "options": [
+            "It adds an additional verification step",
+            "It removes the need for strong passwords",
+            "It disables password recovery"
+        ],
+        "answer": 1
     },
     {
+        "level": "medium",
         "question": "What is the primary goal of an Intrusion Detection System (IDS)?",
-        "options": ["To detect and alert on suspicious activity", "To block unauthorized traffic", "To encrypt data traffic"],
-        "answer": 0,
-        "level": "medium"
+        "options": [
+            "To detect and alert on suspicious activity",
+            "To block unauthorized traffic",
+            "To encrypt data traffic"
+        ],
+        "answer": 1
     },
     {
+        "level": "medium",
         "question": "How can you ensure your SSL/TLS certificates are valid and secure?",
-        "options": ["Renew them regularly and follow best practices", "Disable HTTPS", "Use self-signed certificates"],
-        "answer": 0,
-        "level": "medium"
+        "options": [
+            "Renew them regularly and follow best practices",
+            "Disable HTTPS",
+            "Use self-signed certificates"
+        ],
+        "answer": 1
     },
-
-
-
-
     {
+        "level": "hard",
         "question": "What is the primary purpose of a Security Information and Event Management (SIEM) system?",
         "options": [
-        "To collect, analyze, and respond to security incidents",
-        "To block malware attacks",
-        "To encrypt sensitive data"
+            "To collect, analyze, and respond to security incidents",
+            "To block malware attacks",
+            "To encrypt sensitive data"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "How can an attacker exploit a zero-day vulnerability?",
         "options": [
-        "By exploiting an undisclosed software flaw",
-        "By waiting for a patch to be released",
-        "By performing brute-force attacks"
+            "By exploiting an undisclosed software flaw",
+            "By waiting for a patch to be released",
+            "By performing brute-force attacks"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "Which protocol is commonly targeted in man-in-the-middle (MITM) attacks?",
         "options": [
-        "All of the above",
-        "HTTP",
-        "SMTP"
+            "All of the above",
+            "HTTP",
+            "SMTP"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "How can attackers use DNS tunneling for malicious purposes?",
         "options": [
-        "By exfiltrating data through DNS queries",
-        "By encrypting data packets",
-        "By blocking DNS servers"
+            "By exfiltrating data through DNS queries",
+            "By encrypting data packets",
+            "By blocking DNS servers"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "What is the main risk associated with Shadow IT?",
         "options": [
-        "Unmonitored and unsecured systems",
-        "Decreased software costs",
-        "Faster deployment cycles"
+            "Unmonitored and unsecured systems",
+            "Decreased software costs",
+            "Faster deployment cycles"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "How does an attacker perform privilege escalation?",
         "options": [
-        "By exploiting software vulnerabilities to gain higher access permissions",
-        "By using phishing emails",
-        "By disabling antivirus software"
+            "By exploiting software vulnerabilities to gain higher access permissions",
+            "By using phishing emails",
+            "By disabling antivirus software"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "Which technique is used to hide malicious code within legitimate processes?",
         "options": [
-        "Code Injection",
-        "Phishing",
-        "Port Scanning"
+            "Code Injection",
+            "Phishing",
+            "Port Scanning"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "How can you prevent data exfiltration in a corporate network?",
         "options": [
-        "By using Data Loss Prevention (DLP) tools",
-        "By disabling encryption",
-        "By using outdated firewalls"
+            "By using Data Loss Prevention (DLP) tools",
+            "By disabling encryption",
+            "By using outdated firewalls"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "What is the primary purpose of threat intelligence feeds?",
         "options": [
-        "To provide real-time updates on emerging threats",
-        "To block unauthorized network access",
-        "To manage encryption keys"
+            "To provide real-time updates on emerging threats",
+            "To block unauthorized network access",
+            "To manage encryption keys"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "How does a side-channel attack compromise security?",
         "options": [
-        "By exploiting physical information leaks (e.g., power consumption)",
-        "By decrypting SSL traffic",
-        "By tampering with DNS records"
+            "By exploiting physical information leaks (e.g., power consumption)",
+            "By decrypting SSL traffic",
+            "By tampering with DNS records"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "What is the primary purpose of endpoint detection and response (EDR) systems?",
         "options": [
-        "To detect and respond to endpoint-level security threats",
-        "To prevent unauthorized remote connections",
-        "To optimize system performance"
+            "To detect and respond to endpoint-level security threats",
+            "To prevent unauthorized remote connections",
+            "To optimize system performance"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "How do attackers use credential stuffing?",
         "options": [
-        "By trying stolen username-password pairs across multiple sites",
-        "By exploiting weak encryption",
-        "By launching DoS attacks"
+            "By trying stolen username-password pairs across multiple sites",
+            "By exploiting weak encryption",
+            "By launching DoS attacks"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "Which cryptographic attack aims to discover encryption keys through mathematical analysis?",
         "options": [
-        "Cryptanalysis",
-        "Brute Force Attack",
-        "Side-Channel Attack"
+            "Cryptanalysis",
+            "Brute Force Attack",
+            "Side-Channel Attack"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "How can an organization ensure the integrity of its software supply chain?",
         "options": [
-        "By conducting code audits and verifying dependencies",
-        "By disabling third-party integrations",
-        "By blocking outbound traffic"
+            "By conducting code audits and verifying dependencies",
+            "By disabling third-party integrations",
+            "By blocking outbound traffic"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "What is the purpose of a Kerberoasting attack?",
         "options": [
-        "To extract service account credentials from Kerberos tickets",
-        "To exploit weak encryption keys",
-        "To disrupt DNS resolution"
+            "To extract service account credentials from Kerberos tickets",
+            "To exploit weak encryption keys",
+            "To disrupt DNS resolution"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "How can an attacker exploit API vulnerabilities?",
         "options": [
-        "By manipulating input and abusing poorly secured endpoints",
-        "By performing SQL Injection",
-        "By disabling antivirus software"
+            "By manipulating input and abusing poorly secured endpoints",
+            "By performing SQL Injection",
+            "By disabling antivirus software"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "What is the role of sandboxing in cybersecurity?",
         "options": [
-        "To isolate potentially malicious code for analysis",
-        "To block phishing attempts",
-        "To monitor DNS traffic"
+            "To isolate potentially malicious code for analysis",
+            "To block phishing attempts",
+            "To monitor DNS traffic"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "Which method is commonly used to detect insider threats?",
         "options": [
-        "Monitoring unusual access patterns and behaviors",
-        "Using weak passwords",
-        "Blocking outbound traffic"
+            "Monitoring unusual access patterns and behaviors",
+            "Using weak passwords",
+            "Blocking outbound traffic"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "How does public key infrastructure (PKI) enhance security?",
         "options": [
-        "By managing digital certificates and public/private keys",
-        "By encrypting local files",
-        "By blocking malware"
+            "By managing digital certificates and public/private keys",
+            "By encrypting local files",
+            "By blocking malware"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     },
     {
+        "level": "hard",
         "question": "What is the primary goal of a red team assessment?",
         "options": [
-        "To simulate real-world cyberattacks and identify weaknesses",
-        "To test physical security systems",
-        "To train employees on phishing attacks"
+            "To simulate real-world cyberattacks and identify weaknesses",
+            "To test physical security systems",
+            "To train employees on phishing attacks"
         ],
-        "answer": 0,
-        "level": "hard"
+        "answer": 1
     }
-
-    
 ]
