@@ -100,5 +100,51 @@
                 "time": "20:46:53"
             }
         ]
+    },
+    "lina": {
+        "history": [
+            {
+                "category": "Artificial Intelligence",
+                "level": "easy",
+                "score": "3/5",
+                "date": "2025-01-09",
+                "time": "23:24:46"
+            },
+            {
+                "category": "Artificial Intelligence",
+                "level": "hard",
+                "score": "3/5",
+                "date": "2025-01-10",
+                "time": "11:21:17"
+            },
+            {
+                "category": "Random",
+                "level": "easy",
+                "score": "2/3",
+                "date": "2025-01-11",
+                "time": "17:08:48"
+            },
+            {
+                "category": "Random",
+                "level": "random",
+                "score": "1/3",
+                "date": "2025-01-11",
+                "time": "17:24:19"
+            },
+            {
+                "category": "Programming",
+                "level": "random",
+                "score": "2/3",
+                "date": "2025-01-11",
+                "time": "17:25:18"
+            },
+            {
+                "category": "Random",
+                "level": "random",
+                "score": "5/6",
+                "date": "2025-01-12",
+                "time": "11:57:27"
+            }
+        ]
     }
 }
