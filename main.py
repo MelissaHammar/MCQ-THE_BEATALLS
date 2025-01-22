@@ -1,9 +1,10 @@
 from user_management import signin_signup
-from user_management import load_users
+from user_management import load_users,calculate_highest_score, collect_feedback
 from mcq_management import load_questions, display_question, export_user_history
 import random
 from datetime import datetime
 import json
+
 
 
 def main():
@@ -120,10 +121,15 @@ def main():
     # display final score
     print(f"\nYou completed the quiz! Your final score is {score}/{num_questions}.")
 
+    
+    calculate_highest_score(users[user_id]["history"])
     export_user_history(user_id, users[user_id])
 
-    print("\nThank you for playing!")
+    collect_feedback(user_id)
+
+
 
 
 if __name__ == "__main__":
     main()
+    
