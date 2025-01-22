@@ -22,13 +22,15 @@ def load_users(file_path= file_users):
 
 #function to check if it's a sign in or sign up case and do what's needed
 def signin_signup(users):
-    id=input("Please enter your ID : ").strip()
-   # if the user exists then print their history
+    id = input("Please enter your ID: ").strip()
     if id in users:
         print(f"\nGood to see you again, {id}!")
-        print(f"\nBelow you can find your playing history: ") 
-        for x in users[id]["history"] : 
+        print("\nBelow you can find your playing history:") 
+        for x in users[id]["history"]:
             print(f"Category: {x['category']}, \t Level: {x['level']}, \t Score: {x['score']}, \t Date: {x['date']}, \t Time: {x['time']}")
+       
+        highest_score = calculate_highest_score(users[id]["history"])
+        print(f"\nYour highest score so far: {highest_score}")
     # else, sign them up and add their id to the users.json          
     else:
         print(f"\nCreating an account for {id}... ")
@@ -36,7 +38,14 @@ def signin_signup(users):
         with open(file_users, "w") as file:
          json.dump(users, file, indent=4) #to update users.json and add the new user     
     return id
-    
+
+def calculate_highest_score(history):
+    highest = 0
+    for entry in history:
+        score = int(entry["score"].split('/')[0]) 
+        if score > highest:
+            highest = score
+    return highest
 
     
 
