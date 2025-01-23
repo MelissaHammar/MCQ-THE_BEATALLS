@@ -76,11 +76,11 @@ We made sure to develop a user-friendly app with well detailed instructions and 
 
 # Contributors:
 
-## ABDELLAOUI Asma  
-## AKCHICHE Meriem Lyna
-## BAROUD Lina
-## BENOUMECHIARA Abir Maria Naïla
-## HAMMAR Melissa Thiziri
+### ABDELLAOUI Asma  
+### AKCHICHE Meriem Lyna
+### BAROUD Lina
+### BENOUMECHIARA Abir Maria Naïla
+### HAMMAR Melissa Thiziri
  
 
 
